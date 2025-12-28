@@ -1,1 +1,1 @@
-# Cara-install-terminalizer-di-windows
+# Cara-install-terminalizer
