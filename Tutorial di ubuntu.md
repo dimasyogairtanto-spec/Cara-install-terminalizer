@@ -56,12 +56,18 @@ terminalizer record tester
 
 ### 3. Mengakhiri Record Terminalizer dan render hasilnya
 
-ketik 
+**Stop rekam : klik ctrl+d**
 
-```
-exit
-```
+lalu
 
 ```
 terminalizer render tester
 ```
+
+**screen recoder bawaan**
+
+[Screencast from 02-01-26 14:36:13.webm](https://github.com/user-attachments/assets/5cfe5268-eaeb-4581-ae88-edaa82cd6db8)
+
+**Hasil dari terminalizer**
+
+![render1767084290348](https://github.com/user-attachments/assets/3296e8c5-b8d8-47b1-b4c0-92ad69e7ddd8)
